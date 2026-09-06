@@ -1,0 +1,5 @@
+[tool.vercel]
+entrypoint = "api:app"
+
+[project]
+requires-python = "~=3.12.0"
