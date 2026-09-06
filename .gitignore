@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Chroma databases
+chroma_db/
+job_chroma_db/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Personal files
+data/*.pdf

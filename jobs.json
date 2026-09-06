@@ -1,0 +1,57 @@
+[
+    {
+      "id": "job_001",
+      "title": "Full Stack Developer",
+      "company": "TechNova",
+      "location": "Pune, India",
+      "description": "Build web applications using React, Java, Spring Boot, REST APIs and SQL.",
+      "required_skills": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "SQL"
+      ],
+      "preferred_skills": [
+        "Docker",
+        "AWS",
+        "Git"
+      ]
+    },
+    {
+      "id": "job_002",
+      "title": "Backend Developer",
+      "company": "CloudWorks",
+      "location": "Bengaluru, India",
+      "description": "Develop scalable backend services using Java, Spring Boot, PostgreSQL and Docker.",
+      "required_skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "REST APIs"
+      ],
+      "preferred_skills": [
+        "Docker",
+        "AWS",
+        "Kafka"
+      ]
+    },
+    {
+      "id": "job_003",
+      "title": "Frontend Developer",
+      "company": "PixelLabs",
+      "location": "Hyderabad, India",
+      "description": "Build modern responsive applications using React, JavaScript, HTML and CSS.",
+      "required_skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "preferred_skills": [
+        "TypeScript",
+        "Next.js",
+        "Git"
+      ]
+    }
+  ]
